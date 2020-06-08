@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+	background-color: #FAFAFA;
+}
+
+.top {
+	margin: 50px;
+}
+
+.error {
+	margin: 50px;
+}
+
+.header {
+	display: inline-block;
+}
+
+.home-link {
+	float: right;
+}
+
+.error-msg {
+	list-style: none;
+	color: #FF0000;
+	display: inline-block;
+}
+
+.input-name {
+	display: inline-block;
+	margin-right: 2px;
+	vertical-align: top;
+}
+
+
+.el-center {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
